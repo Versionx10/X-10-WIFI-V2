@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=im-ARIF-thanks-for-my-cmd-use)](https://git.io/typing-svg)
 
-### Hello, welcome@ **TERMUX** REPO CLEAN FILES.. 
-..using  *wifi-hack* by Termux/Android, ARIF-😫!!
+### Hello, Welcome .. 
+Hack Wifi ..Using  *X-10-WIFI-V2* by Termux/Android, ARIF-😫!!
 <br><br>
 ![termuxICO](https://user-images.githubusercontent.com/80227002/112893051-6feceb00-90da-11eb-856d-1fac8f6d169a.png)![devoleper](https://i.postimg.cc/6Q0XPjdt/IMG-20240404-202439-804.jpg)
 <br><br>
