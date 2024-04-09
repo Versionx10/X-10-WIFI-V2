@@ -26,7 +26,7 @@ pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu 
  ```
 **run farhan hack py**
  ```console
-git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot FARHAN-Shot
+git clone --depth 1 https://github.com/Versionx10/X-10-WIFI-V2
  ```
 
 #### Running fast command 😪?
