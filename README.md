@@ -107,14 +107,3 @@ cd X-10-WIFI-V2 && sudo python3 X-10-WIFI-V2.py -i wlan0 --pbc
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://versionx10.co)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/Versionx10)
 
-
-# Acknowledgements
-## Special Thanks <span style='font-size:45px;'>&#128071;</span>
-<a href="#"><img title="ARIF_MODZ" src="https://img.shields.io/badge/ARIF_MODZ-black?style=for-the-badge&logo=FARHAN MUH TASIM"></a>
-## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
-### thanks for these topics and supported 💖🤧
-* `rofl0r` for initial implementation;
-* `Monohrom` for testing, help in catching bugs, some ideas;
-* `Wiire` for developing Pixiewps.
-* `binod-xd` for inspire.
-* `ARIF_MODZ` create and modified 📍.
