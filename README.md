@@ -18,6 +18,31 @@
 [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
+
+#### Manually
+**Installing requirements**
+```console
+pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl && termux-setup-storage
+ ```
+**run farhan hack py**
+ ```console
+git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot FARHAN-Shot
+ ```
+
+#### Running fast command 😪?
+ ```console
+sudo X-10-WIFI-V2/X-10-WIFI-V2.py -i wlan0 -K 
+ ```
+
+
+ #### copy to past bro 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0202&background=000000&multiline=true&random=false&width=435&lines=2Nd+command+%F0%9F%98%81%3F" alt="Typing SVG" /></a>
+ ```console
+ sudo python X-10-WIFI-V2/X-10-WIFI-V2.py -i wlan0 -K 
+ ```
+
+
+
 # Overview
 **X-10-WIFI-V2** performs [Pixie Dust attack](https://forums.kali.org/showthread.php?24286-WPS-Pixie-Dust-Attack-Offline-WPS-Attack) without having to switch to monitor mode.
 # Features
