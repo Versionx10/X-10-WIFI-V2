@@ -110,7 +110,7 @@ cd X-10-WIFI-V2 && sudo python3 X-10-WIFI-V2.py -i wlan0 --pbc
 
 # Acknowledgements
 ## Special Thanks <span style='font-size:45px;'>&#128071;</span>
-<a href="#"><img title="ARIF_MODZ" src="https://img.shields.io/badge/FARHAN MUH TASIM-black?style=for-the-badge&logo=FARHAN MUH TASIM"></a>
+<a href="#"><img title="ARIF_MODZ" src="https://img.shields.io/badge/ARIF_MODZ-black?style=for-the-badge&logo=FARHAN MUH TASIM"></a>
 ## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
 ### thanks for these topics and supported 💖🤧
 * `rofl0r` for initial implementation;
