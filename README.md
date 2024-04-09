@@ -29,17 +29,12 @@ pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu 
 git clone --depth 1 https://github.com/Versionx10/X-10-WIFI-V2
  ```
 
-#### Running fast command 😪?
+#### Running  command 😪
  ```console
-sudo X-10-WIFI-V2/X-10-WIFI-V2.py -i wlan0 -K 
+sudo python X-10-WIFI-V2/X-10-WIFI-V2.py -i wlan0 -K 
  ```
 
 
- #### copy to past bro 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0202&background=000000&multiline=true&random=false&width=435&lines=2Nd+command+%F0%9F%98%81%3F" alt="Typing SVG" /></a>
- ```console
- sudo python X-10-WIFI-V2/X-10-WIFI-V2.py -i wlan0 -K 
- ```
 
 
 
