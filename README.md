@@ -68,15 +68,6 @@ Please note that root access is required.
 + **First turn off your Wifi.**
 + **Turn on Hotspot.**
 + **Turn on Location.**
-### new version 🐸
-```
-sudo python X-10-WIFI-V2/File/ARIF_V3.py -i wlan0 -K
-```
-```
-sudo python X-10-WIFI-V2/File/oneshot.py -i wlan0 -K
-```
-
-+ enjoy 🌕👀
 
 
 ## Usage examples
