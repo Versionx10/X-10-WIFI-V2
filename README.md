@@ -24,7 +24,7 @@ Hack Wifi ..Using  *X-10-WIFI-V2* by Termux/Android, ARIF-😫!!
 ```console
 pkg update && pkg upgrade && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl && termux-setup-storage
  ```
-**run farhan hack py**
+**Run "X-10-WIFI-V2" **
  ```console
 git clone --depth 1 https://github.com/Versionx10/X-10-WIFI-V2
  ```
