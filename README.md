@@ -1,6 +1,6 @@
 ### X-10-WIFI-V2
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+use+my+command+;place+don't+forged+start+;Im+ARIF+hi;Facebook%3A+Arifmoodz" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+use+my+command+; please+don't+forget+start+;Hi+Im+ARIF_MODZ;Facebook%3A+Arifmoodz" alt="Typing SVG" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=im-ARIF-thanks-for-my-cmd-use)](https://git.io/typing-svg)
 
