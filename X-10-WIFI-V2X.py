@@ -19,6 +19,12 @@ from typing import Dict
 
 os.system('cls||clear')
 print("""\033[1;32m
+POWERFULL WIFI HACKING TOOL 💉
+
+
+
+
+
 
 ▀▄▒▄▀ ░░ ▄█░ █▀▀█ 　 ▒█░░▒█ ▀█▀ ▒█▀▀▀ ▀█▀ 
 ░▒█░░ ▀▀ ░█░ █▄▀█ 　 ▒█▒█▒█ ▒█░ ▒█▀▀▀ ▒█░ 
@@ -27,7 +33,7 @@ print("""\033[1;32m
  \033[1;37mNAME        : X-10-WIFI-2.0
  \033[1;37mVERSION     : 2.0
  \033[1;37mAUTHOR      : ARIF_MODZ
- \033[1;37mWORK ON    : GREEN-COLOR WIFI
+ \033[1;37mWORK ON     : GREEN-COLOR WIFI
  
 
  \033[1;31mNOTE    :       ROOT DEVICES ONLY
