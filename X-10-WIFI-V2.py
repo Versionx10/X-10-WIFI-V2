@@ -994,13 +994,13 @@ class WiFiScanner:
         os.system('clear')
         print('''
 	
-SIMPLE WIFI HACKING TOOL
+POWERFULL WIFI HACKING TOOL 💉
 
 
 ▀▄▒▄▀ ░░ ▄█░ █▀▀█ 　 ▒█░░▒█ ▀█▀ ▒█▀▀▀ ▀█▀ 
 ░▒█░░ ▀▀ ░█░ █▄▀█ 　 ▒█▒█▒█ ▒█░ ▒█▀▀▀ ▒█░ 
-▄▀▒▀▄ ░░ ▄█▄ █▄▄█ 　 ▒█▄▀▄█ ▄█▄ ▒█░░░ ▄█▄\n\t\t\033[1;36mARIF_MODZ 
-                                                    \n\t\t[\033[1;32m*\033[1;37m] NAME        : ARIF_MODZ\n\t\t[\033[1;32m*\033[1;37m] WORK ONLY   : GREEN-COLOR WIFI\n\t\t[\033[1;32m*\033[1;37m] AUTHOR      : ARIF_MODZ \n\t\t[\033[1;32m*\033[1;37m] Version     : 2.0 \n\t\t[\033[1;32m*\033[1;37m] NOTE      : ROOT DEVICES ONLY \n''') 
+▄▀▒▀▄ ░░ ▄█▄ █▄▄█ 　 ▒█▄▀▄█ ▄█▄ ▒█░░░ ▄█▄\n\t\t\033[1;36m2.0 
+                                                    \n\t\t[\033[1;32m*\033[1;37m] NAME        : X-10-WIFI-2.0\n\t\t[\033[1;32m*\033[1;37m] VERSION   : 2.0\n\t\t[\033[1;32m*\033[1;37m] AUTHOR      : ARIF_MODZ \n\t\t[\033[1;32m*\033[1;37m] WORK ON    : GREEN-COLOR WIFI\n\t\t[\033[1;32m*\033[1;37m] NOTE      : ROOT DEVICES ONLY \n''') 
    
         networks = self.iw_scanner()
         if not networks:
