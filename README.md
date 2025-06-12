@@ -16,8 +16,6 @@
 
 ## 📶 HACK WIFI
 
-> ⚠️ **Note:** Root access is **required**.
-
 
 
 
@@ -33,6 +31,7 @@
 
 ## 📥 Installation
 
+> ⚠️ **Note:** Root access is **required**.
 ### Step 1
 
 ```bash
