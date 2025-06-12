@@ -10,13 +10,16 @@
 
 **Hack WiFi** using **X-10-WIFI-V2** by Termux/Android, by `ARIF 😫`!
 
-
-> ⚠️ **Note:** Root access is **required**.
 ![Developer](https://i.postimg.cc/6Q0XPjdt/IMG-20240404-202439-804.jpg)
 
 ---
 
 ## 📶 HACK WIFI
+
+> ⚠️ **Note:** Root access is **required**.
+
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75953873/115979290-66309900-a55b-11eb-8259-4b125efc42bb.png">
